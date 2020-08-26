@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe D:\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Python27\;C:\Python27\Scripts;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\ProgramData\chocolatey\bin;C:\Users\Iago\AppData\Local\Android\Sdk\tools\bin;C:\Users\Iago\AppData\Local\Android\Sdk\platform-tools;C:\Users\Iago\AppData\Local\Android\Sdk\emulator;C:\Program Files\PuTTY\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\AMD\ATI.ACE\Core-Static;D:\yarn\bin\;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs\;C:\gradle\bin;D:\gradle\bin;C:\Users\Iago\AppData\Local\GitHubDesktop\bin;C:\Users\Iago\AppData\Local\Microsoft\WindowsApps;D:\Microsoft VS Code\bin;C:\Users\Iago\AppData\Local\Yarn\bin;C:\Users\Iago\AppData\Roaming\Composer\vendor\bin;D:\DataGrip 2020.1.5\bin;;C:\Users\Iago\AppData\Roaming\npm;C:\gradle\bin;D:\gradle\bin;
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.3
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (D:\yarn\lib\cli.js:137008:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:868:16)
+      at ReadStream.onkeypress (readline.js:205:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:335:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1137:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (_stream_readable.js:295:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
